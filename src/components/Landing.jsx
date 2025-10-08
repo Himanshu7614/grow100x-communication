@@ -118,10 +118,10 @@ export default function Landing() {
                                     margin: '-0.1em -0.3em'
                                 }}></span>
                                 <span className="relative font-bold">2-day online bootcamp</span>
-                            </span> to speak with confidence, fix everyday grammar slips, crack interviews & win group discussions.
+                            </span> to speak with confidence, fix everyday grammar slips, crack interviews & ace in group discussions.
                         </p>
                         <div className="flex flex-wrap justify-center gap-2 text-sm sm:text-base text-black">
-                            <span className="px-3 py-1 rounded-full font-bold">📅 Dates: 11-12 Oct</span>
+                            <span className="px-3 py-1 rounded-full font-bold">📅 Dates: 11-12 Oct (Sat-Sun)</span>
                             <span className="px-3 py-1 rounded-full font-bold">💻 Mode: Zoom</span>
                             <span className="px-3 py-1 rounded-full font-bold">⏱️ Course Duration: ~6 hours</span>
                         </div>
