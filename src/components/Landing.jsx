@@ -173,19 +173,19 @@ export default function Landing() {
                                 </div>
 
                                 <ul className="space-y-3 mb-6">
-                                    <li className="flex items-center">
+                                <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
                                         <span className="text-gray-700">Beat stage fear with mindset, breathing & grounding tools.</span>
                                     </li>
-                                    <li className="flex items-center">
+                                    <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
                                         <span className="text-gray-700">Project confidence using the <em>Preparation → Practice → Presence</em> approach.</span>
                                     </li>
-                                    <li className="flex items-center">
+                                    <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
                                         <span className="text-gray-700">Grammar that speaks: tense fixes, subject-verb agreement, transitions.</span>
                                     </li>
-                                    <li className="flex items-center">
+                                    <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
                                         <span className="text-gray-700">Hands-on: Extempore + "Spot & Fix" grammar game.</span>
                                     </li>
@@ -241,19 +241,19 @@ export default function Landing() {
                                 </div>
 
                                 <ul className="space-y-3 mb-6">
-                                    <li className="flex items-center">
+                                <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
                                         <span className="text-gray-700">Answer "Tell me about yourself" with clarity using STAR Method.</span>
                                     </li>
-                                    <li className="flex items-center">
+                                    <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
                                         <span className="text-gray-700">Virtual interview do's & don'ts that actually matter.</span>
                                     </li>
-                                    <li className="flex items-center">
+                                    <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
                                         <span className="text-gray-700">Mock interviews in pairs with rapid feedback.</span>
                                     </li>
-                                    <li className="flex items-center">
+                                    <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
                                         <span className="text-gray-700">Group Discussion drills with a simple scoring rubric.</span>
                                     </li>
@@ -289,15 +289,15 @@ export default function Landing() {
                             <h3 className="text-2xl font-bold text-gray-900">Who should join</h3>
                         </div>
                         <ul className="space-y-2">
-                            <li className="flex items-center">
+                        <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
                                 <span className="text-gray-700">Students & freshers preparing for placements.</span>
                             </li>
-                            <li className="flex items-center">
+                            <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
                                 <span className="text-gray-700">Early-career professionals polishing speaking skills.</span>
                             </li>
-                            <li className="flex items-center">
+                            <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
                                 <span className="text-gray-700">Anyone who freezes on camera or in GDs.</span>
                             </li>
@@ -314,15 +314,15 @@ export default function Landing() {
                             <h3 className="text-2xl font-bold text-gray-900">What you need</h3>
                         </div>
                         <ul className="space-y-2">
-                            <li className="flex items-center">
+                        <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
                                 <span className="text-gray-700">Zoom on laptop/phone, stable internet.</span>
                             </li>
-                            <li className="flex items-center">
+                            <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
                                 <span className="text-gray-700">Mic + camera (recommended for practice rooms).</span>
                             </li>
-                            <li className="flex items-center">
+                            <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
                                 <span className="text-gray-700">Willingness to speak & try!</span>
                             </li>
