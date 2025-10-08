@@ -243,7 +243,7 @@ export default function Landing() {
                                 <ul className="space-y-3 mb-6">
                                 <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
-                                        <span className="text-gray-700">Answer "Tell me about yourself" with clarity using STAR Method.</span>
+                                        <span className="text-gray-700">Answer "Tell me about yourself" and other interview questions with clarity using STAR Method.</span>
                                     </li>
                                     <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
@@ -299,7 +299,7 @@ export default function Landing() {
                             </li>
                             <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
-                                <span className="text-gray-700">Anyone who freezes on camera or in GDs.</span>
+                                <span className="text-gray-700">Anyone who freezes on camera or in interview.</span>
                             </li>
                         </ul>
                     </div>
@@ -316,11 +316,11 @@ export default function Landing() {
                         <ul className="space-y-2">
                         <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
-                                <span className="text-gray-700">Zoom on laptop/phone, stable internet.</span>
+                                <span className="text-gray-700">Zoom on laptop, stable internet.</span>
                             </li>
                             <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
-                                <span className="text-gray-700">Mic + camera (recommended for practice rooms).</span>
+                                <span className="text-gray-700">Laptop, Mic and Camera (recommended for practice rooms).</span>
                             </li>
                             <li className="flex items-start md:items-center">
                                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-3 text-xl">•</span>
