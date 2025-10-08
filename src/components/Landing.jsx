@@ -139,7 +139,7 @@ export default function Landing() {
                     {/* Day 1 */}
                     <div ref={day1Ref} className={`bg-white rounded-xl shadow-lg p-6 sm:p-8 hover:shadow-2xl transition duration-300 hover:cursor-pointer ${getAnimationClass('day1')}`}>
                         <div className="text-center mb-12">
-                            <h3 className="text-2xl font-bold text-gray-900 inline-block">
+                            <h3 className="text-3xl font-bold text-gray-900 inline-block">
                                 <span className="relative inline-block px-3">
                                     <span className="absolute inset-0 transform -skew-x-12" style={{
                                         background: 'linear-gradient(104deg, rgba(147, 197, 253, 0.3) 0%, rgba(147, 197, 253, 0.7) 20%, rgba(147, 197, 253, 0.5) 39%, rgba(147, 197, 253, 0.7) 70%, rgba(147, 197, 253, 0.4) 100%)',
@@ -207,7 +207,7 @@ export default function Landing() {
                     {/* Day 2 */}
                     <div ref={day2Ref} className={`bg-white rounded-xl shadow-lg p-6 sm:p-8 hover:shadow-2xl transition duration-300 hover:cursor-pointer ${getAnimationClass('day2')}`}>
                         <div className="text-center mb-12">
-                            <h3 className="text-2xl font-bold text-gray-900 inline-block">
+                            <h3 className="text-3xl font-bold text-gray-900 inline-block">
                                 <span className="relative inline-block px-3">
                                     <span className="absolute inset-0 transform -skew-x-12" style={{
                                         background: 'linear-gradient(104deg, rgba(147, 197, 253, 0.3) 0%, rgba(147, 197, 253, 0.7) 20%, rgba(147, 197, 253, 0.5) 39%, rgba(147, 197, 253, 0.7) 70%, rgba(147, 197, 253, 0.4) 100%)',
