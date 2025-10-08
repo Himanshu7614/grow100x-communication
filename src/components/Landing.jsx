@@ -175,7 +175,7 @@ export default function Landing() {
                                 <ul className="space-y-3 mb-6">
                                 <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
-                                        <span className="text-gray-700">Beat stage fear with mindset, breathing & grounding tools.</span>
+                                        <span className="text-gray-700">Beat stage fear with mindset, breathing & grounding techniques.</span>
                                     </li>
                                     <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
@@ -183,7 +183,7 @@ export default function Landing() {
                                     </li>
                                     <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
-                                        <span className="text-gray-700">Grammar that speaks: tense fixes, subject-verb agreement, transitions.</span>
+                                        <span className="text-gray-700">Grammar that helps you speak: tense fixes, subject-verb agreement, transitions.</span>
                                     </li>
                                     <li className="flex items-start md:items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
