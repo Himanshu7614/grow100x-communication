@@ -243,7 +243,7 @@ export default function Landing() {
                                 <ul className="space-y-3 mb-6">
                                     <li className="flex items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
-                                        <span className="text-gray-700">Answer "Tell me about yourself" with clarity using STAR.</span>
+                                        <span className="text-gray-700">Answer "Tell me about yourself" with clarity using STAR Method.</span>
                                     </li>
                                     <li className="flex items-center">
                                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-green-400 mr-2">•</span>
