@@ -409,7 +409,7 @@ export default function Landing() {
                         </div>
 
                         <p className="text-gray-700 mb-6">
-                            Share your details & upload payment screenshot. You'll get the Zoom link on WhatsApp/email within a few hours.
+                            Share your details & upload payment screenshot. You will be added in the Speaking Lab WhatsApp Community after filling the form.
                         </p>
 
                         <button
